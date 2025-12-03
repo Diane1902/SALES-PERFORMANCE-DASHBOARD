@@ -1,4 +1,6 @@
 📊 Sales Performance Dashboard
+<img width="1260" height="800" alt="HAFFY SALES DASHBOARD" src="https://github.com/user-attachments/assets/81ffc0d1-8028-4f4e-af26-e2e279b9492b" />
+
 An interactive dashboard designed to analyze sales performance across locations, products, periods, and sales representatives. This dashboard provides a clear, visual overview of business performance and helps identify top revenue drivers and improvement opportunities.
 
 🚀 Key Features
